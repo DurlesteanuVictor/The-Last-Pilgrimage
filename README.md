@@ -47,7 +47,9 @@ Upon entering the castle, you are one step closer to the enemy overlord. This fi
 # How to run:
 1. Clone the repository.
 2. Open the project in IntelliJ IDEA.
-3. Ensure the SQLite JDBC driver is added to your project dependencies.
+3. Configure Project Structure.
+    *   Right-click the `resources` folder and mark it as **"Resources Root"**.
+    *   Right-click the `src` folder and mark it as **"Sources Root"**.
 4. Run the `Main` class to launch the game.
 5. Enjoy!
 
